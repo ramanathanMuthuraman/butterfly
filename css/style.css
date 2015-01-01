@@ -2,6 +2,11 @@
         margin: 0;
         padding: 0;
     }
+    .butterfly{
+        position: relative;
+        width: 60px;
+        height:60px;
+    }
 .wing {
     width: 20px;
 height: 20px;

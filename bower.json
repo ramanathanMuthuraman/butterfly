@@ -1,0 +1,24 @@
+{
+  "name": "butterfly",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ramanathanMuthuraman/butterfly",
+  "authors": [
+    "ramanathanMuthuraman"
+  ],
+  "description": "butterfly with css",
+  "keywords": [
+    "css3",
+    "butterfly"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "gsap": "~1.15.0"
+  }
+}

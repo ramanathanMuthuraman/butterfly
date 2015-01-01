@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+$(".butterfly").css("left","-60px");
 $("canvas").width($(window).width());
 var wings = new TimelineMax({repeat:-1});
 wings.to(".right .top",1,{rotationX:"-50deg",top:-4})

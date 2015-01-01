@@ -2,10 +2,29 @@
         margin: 0;
         padding: 0;
     }
-    .butterfly{
+    .container{
+        margin: 10% auto;
+    }
+    .canvas{
         position: relative;
-        width: 60px;
-        height:60px;
+            margin: 0 auto;
+            overflow: hidden;
+            height:100px;
+    }
+    .butterfly{
+        position: absolute;
+        width: 100%;
+        background: #fff;
+
+    }
+    .text{
+ text-align: center;
+margin: 0 auto;
+font-family: "League-Gothic", Courier;
+font-size: 45px;
+
+color: #222;
+text-shadow: 0px 2px 3px #666;
     }
 .wing {
     width: 20px;
